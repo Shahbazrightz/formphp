@@ -1,0 +1,31 @@
+body {
+  font-family: "Baloo Bhai", cursive;
+  background-color: #353535;
+  color: #cfcfcf;
+}
+
+.heading {
+  text-align: center;
+}
+
+form input,
+textarea {
+  display: block;
+  margin: 20px auto 20px auto;
+  padding: 20px;
+  width: 35%;
+  font-family: "Baloo Bhai", cursive;
+}
+
+.submit-button {
+  padding: 10px;
+  margin: 20px auto 20px auto;
+  display: block;
+  font-family: "Baloo Bhai", cursive;
+  background-color: white;
+  cursor: pointer;
+}
+
+label {
+  display: none;
+}
